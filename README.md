@@ -49,6 +49,8 @@ The implementation is intentionally kept minimal on the UI side (Streamlit) to c
 
 - **Complete Project Repository (Frontend + Backend):**  
   https://github.com/hurairaali/Rain-Parade-NASA_Challange
+- **Live Demo Deployed Using Streamlit:**
+  [Demo-Link](https://atmosight-weather-insight-dashboard.streamlit.app/)
 
 ---
 
@@ -90,10 +92,5 @@ My contribution focused on:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
----
-
-**## 🔗 Demo
-- Live Demo of this project deployed through streamlit can be found here: [Demo-Link](https://atmosight-weather-insight-dashboard.streamlit.app/)
 
 ---
