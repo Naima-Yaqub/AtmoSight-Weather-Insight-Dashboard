@@ -91,6 +91,9 @@ My contribution focused on:
 pip install -r requirements.txt
 streamlit run app.py
 
+---
 
-## 🔗 Demo
+**## 🔗 Demo
 - Live Demo of this project deployed through streamlit can be found here: [Demo-Link](https://atmosight-weather-insight-dashboard.streamlit.app/)
+
+---
